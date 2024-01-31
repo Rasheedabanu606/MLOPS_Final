@@ -1,3 +1,4 @@
-# MLOPS_Final
+           # MLOPS_Final
 This is a Group project
-Hi this is the app URL: https://mlopsfinal.streamlit.app/
+
+Streamlit app URL: https://mlopsfinal.streamlit.app/
